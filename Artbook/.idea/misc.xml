@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/SOFTWARE/Android/Kotlin/ArtBookApp/Artbook/app/src/main/res/layout/fragment_art_details.xml" value="0.15307971014492755" />
+        <entry key="..\:/SOFTWARE/Android/Kotlin/ArtBookApp/Artbook/app/src/main/res/layout/fragment_image_api.xml" value="0.11499493414387031" />
         <entry key="..\:/SOFTWARE/Android/Kotlin/ArtBookApp/Artbook/app/src/main/res/layout/image_row.xml" value="0.11499493414387031" />
         <entry key="..\:/SOFTWARE/Android/Kotlin/Artbook/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
         <entry key="..\:/SOFTWARE/Android/Kotlin/Artbook/app/src/main/res/layout/art_row.xml" value="0.1793478260869565" />
